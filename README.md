@@ -1,4 +1,14 @@
+
+- https://www.thinksystem.com.br
+- https://www.cozinhaemcasa.com.br
+- http://www.luminosite.com.br/
+
+- Em Desenvolvivemento.. projeto para  o curso full stack developer ||, Sistema de Autorização de Pagamento Web
+
+
 ### contrato-web-img
+
+- Concluído, pronjeto full stack developer |, Contrato WEB.
 
 ![home](https://user-images.githubusercontent.com/37249144/46531330-31607780-c873-11e8-8307-3f4ccfa73f25.png)
 ![cadastro_contrato](https://user-images.githubusercontent.com/37249144/46531333-31f90e00-c873-11e8-8332-37c702a6423a.png)
